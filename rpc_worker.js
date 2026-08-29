@@ -1,3 +1,8 @@
+/*
+ * MATRIX STORE
+ * 📍 المحله الكبرى - شارع الجمهوريه الرئيسي - امام قهوه السماحي
+ * 📞 01091441550 | 01276461006 | 01286025409
+ */
 "use strict";
 
 let marker_arr = new Uint32Array(new ArrayBuffer(0x10));
